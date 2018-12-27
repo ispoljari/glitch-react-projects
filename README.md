@@ -1,7 +1,7 @@
 # glitch-react-projects
 A list of short React projects from Glitch
 
-# Components
+# Practice Creating Stateless and Statefull Components
 
 1) [https://glorious-alphabet.glitch.me](https://glorious-alphabet.glitch.me)
 
