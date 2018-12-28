@@ -1,5 +1,5 @@
 # Description
-A list of short React projects I created on my Glitch account
+A list of short React projects I created on my Glitch account.
 
 ## Stateless and Statefull Components
 
