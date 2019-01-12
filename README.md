@@ -1,7 +1,8 @@
 # Description
-A list of short React projects I created on my Glitch account.
+A list of short of pure React, and React + Redux mini - projects I created on my Glitch account.
 
-## Components, Interactivity, Communication
+## Pure React
+### Components, Interactivity, Communication
 
 1) [https://glorious-alphabet.glitch.me](https://glorious-alphabet.glitch.me)
 
@@ -12,3 +13,8 @@ A list of short React projects I created on my Glitch account.
 4) [https://honeysuckle-ox.glitch.me](https://honeysuckle-ox.glitch.me)
 
 5) [https://glitch.com/edit/#!/abaft-ferret](https://glitch.com/edit/#!/abaft-ferret)
+
+## React + Redux
+### Actions, Reducers
+
+1) [https://glitch.com/edit/#!/sturdy-bail-1](https://glitch.com/edit/#!/sturdy-bail-1)
