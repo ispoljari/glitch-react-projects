@@ -19,3 +19,7 @@ A list of short of pure React, and React + Redux mini - projects I created on my
 
 1) [https://glitch.com/edit/#!/sturdy-bail-1](https://glitch.com/edit/#!/sturdy-bail-1)
 2) [glitch.com/edit/#!/quark-closet](glitch.com/edit/#!/quark-closet)
+
+### Redux with React
+
+1) [https://glitch.com/edit/#!/sleepy-kidney](https://glitch.com/edit/#!/sleepy-kidney)
