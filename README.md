@@ -23,3 +23,4 @@ A list of short of pure React, and React + Redux mini - projects I created on my
 ### Redux with React
 
 1) [https://glitch.com/edit/#!/sleepy-kidney](https://glitch.com/edit/#!/sleepy-kidney)
+2) [https://glitch.com/edit/#!/charming-trade] (https://glitch.com/edit/#!/charming-trade)
